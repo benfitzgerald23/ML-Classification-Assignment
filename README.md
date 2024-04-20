@@ -5,3 +5,5 @@ This project undertakes the analysis of classification algorithms using a datase
 
 ## Files
 - `Machine Learning Road Surface Classification.ipynb`: Python script
+- `Road Surface Classification Report.pdf`: Report
+
